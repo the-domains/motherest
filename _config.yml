@@ -1,6 +1,6 @@
 name: motherest
 favicon: null
-layout_spectrum: 0.34764
+layout_spectrum: 0.2034
 typography_spectrum: 0.28185534104704857
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#7a5159'
     - '#bf8583'
     - '#f2c8ce'
-  brandStrength: 0.1875
-  lightness: 0.9497844730503857
+  brandStrength: 0.125
+  lightness: 0.5
   saturation: 0.75
   rhythmicContrast: 0.35490345349535346
 purpose: []
