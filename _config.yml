@@ -1,0 +1,28 @@
+name: motherest
+favicon: null
+layout_spectrum: 0.02530774218030274
+typography_spectrum: 0.28185534104704857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6739935569930822
+  lightness: 0.9497844730503857
+  saturation: 0.7787704246584326
+  rhythmicContrast: 0.35490345349535346
+purpose: []
