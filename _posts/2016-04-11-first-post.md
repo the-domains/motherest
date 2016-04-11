@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: First Post
-datePublished: '2016-04-11T00:24:08.768Z'
-dateModified: '2016-04-11T00:23:38.888Z'
+datePublished: '2016-04-11T00:47:19.072Z'
+dateModified: '2016-04-11T00:47:13.479Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-11-first-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-first-post.md
-published: true
 url: first-post/index.html
 _type: Article
 
